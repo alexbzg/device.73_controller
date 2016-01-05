@@ -1,0 +1,5 @@
+{ "id": "0",
+  "devices": { "0": { "name": "led0", "type": "switch", "pin": 40 },
+                "1": { "name": "led1", "type": "pulse", "pin": 35,  
+                        "interval": 0.5 } },
+    "pb": { "host": "realmeteo.ru", "port": 7374 } }
